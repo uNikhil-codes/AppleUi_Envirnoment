@@ -2,7 +2,7 @@
 Follow the steps below to apply it.
 ---
 ### 1️⃣ Open VS Code
-Launch **Visual Studio Code**.
+
 ---
 ### 2️⃣ Open Settings (JSON)
 Use **any one** method:
