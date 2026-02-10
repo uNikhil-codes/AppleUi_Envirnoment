@@ -1,8 +1,6 @@
-VS Code Settings Setup :
-This repository contains a custom `settings.json` file for Visual Studio Code.
+
 Follow the steps below to apply it.
 ---
-## How to Use This `settings.json`
 ### 1️⃣ Open VS Code
 Launch **Visual Studio Code**.
 ---
