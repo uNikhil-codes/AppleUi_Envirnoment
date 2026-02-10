@@ -1,6 +1,3 @@
-# AppleUi_Envirnoment
-My macOS-style (vscode) settings (dark glass UI)
-
 VS Code Settings Setup :
 This repository contains a custom `settings.json` file for Visual Studio Code.
 Follow the steps below to apply it.
