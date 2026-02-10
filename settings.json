@@ -1,0 +1,308 @@
+{
+  /* ===============================
+     🍎 ULTIMATE MAC OS EXPERIENCE
+     Performance & Core Behavior
+     =============================== */
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 800,
+  "files.trimTrailingWhitespace": true,
+  "files.insertFinalNewline": true,
+  "files.eol": "\n",
+  "window.experimental.useGPUAcceleration": true,
+  "window.nativeTabs": false,
+  "window.nativeFullScreen": true,
+  "workbench.list.smoothScrolling": true,
+  "editor.smoothScrolling": true,
+  "terminal.integrated.smoothScrolling": true,
+  "editor.fastScrollSensitivity": 8,
+  "editor.scrollBeyondLastLine": false,
+  "editor.mouseWheelScrollSensitivity": 0.8,
+
+  /* ===============================
+     🎨 SF MONO-INSPIRED TYPOGRAPHY
+     Pixel-Perfect Apple Font Feel
+     =============================== */
+  "editor.fontFamily": "'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace",
+  "editor.fontSize": 12.5,
+  "editor.lineHeight": 1.75,
+  "editor.fontWeight": "400",
+  "editor.fontLigatures": "'calt', 'liga', 'ss01', 'ss02', 'ss03', 'ss19'",
+  "editor.letterSpacing": 0.3,
+  "editor.fontAntialiasing": "subpixel-antialiased",
+  "editor.fontHinting": "slight",
+  "editor.renderLineHighlight": "all",
+  "editor.renderLineHighlightOnlyWhenFocus": false,
+
+  /* ===============================
+     ✨ CURSOR & ANIMATIONS
+     Buttery Smooth macOS Motion
+     =============================== */
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.cursorWidth": 2,
+  "editor.cursorSurroundingLines": 10,
+  "editor.cursorSurroundingLinesStyle": "all",
+  "editor.hover.delay": 400,
+  "editor.hover.sticky": true,
+"workbench.hover.delay": 400,
+  "breadcrumbs.enabled": false,
+  "editor.glyphMargin": false,
+  "editor.folding": false,
+  "editor.lineNumbers": "on",
+  "editor.lineNumbersMinChars": 3,
+  "editor.renderWhitespace": "none",
+"editor.renderControlCharacters": false,
+  "editor.occurrencesHighlight": "off",
+  "editor.selectionHighlight": false,
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+
+  /* ===============================
+     📐 BRACKET & CODE STYLING
+     =============================== */
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active",
+  "editor.guides.highlightActiveIndentation": false,
+  "editor.linkedEditing": true,
+  "editor.matchBrackets": "never",
+
+  /* ===============================
+     🪟 WINDOW CHROME (TRUE MACOS)
+     =============================== */
+  "window.titleBarStyle": "custom",
+  "window.customTitleBarVisibility": "auto",
+  "window.commandCenter": false,
+  "window.menuBarVisibility": "compact",
+  "window.dialogStyle": "custom",
+  "window.density.editorTabHeight": "compact",
+  "workbench.editor.tabActionLocation": "left",
+  "workbench.editor.tabCloseButton": "left",
+
+  /* ===============================
+     📁 SIDEBAR & EXPLORER
+     =============================== */
+  "workbench.sideBar.location": "left",
+  "workbench.activityBar.location": "top",
+  "workbench.activityBar.iconClickBehavior": "toggle",
+  "explorer.compactFolders": false,
+  "explorer.sortOrder": "type",
+  "explorer.fileNesting.enabled": true,
+  "workbench.tree.indent": 14,
+  "workbench.tree.renderIndentGuides": "always",
+  "workbench.tree.enableStickyScroll": true,
+
+  /* ===============================
+     📑 TAB BAR (SAFARI-LIKE)
+     =============================== */
+  "workbench.editor.tabSizing": "shrink",
+  "workbench.editor.tabSizingFixedMinWidth": 80,
+  "workbench.editor.tabSizingFixedMaxWidth": 200,
+  "workbench.editor.showTabs": "multiple",
+  "workbench.editor.tabActionCloseVisibility": true,
+  "workbench.editor.highlightModifiedTabs": true,
+  "workbench.editor.decorations.badges": true,
+  "workbench.editor.decorations.colors": true,
+
+  /* ===============================
+     📜 SCROLLBARS (INVISIBLE)
+     =============================== */
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.scrollbar.horizontalScrollbarSize": 0,
+  "editor.scrollbar.useShadows": false,
+  "editor.padding.top": 16,
+  "editor.padding.bottom": 16,
+
+  /* ===============================
+     🖥️ TERMINAL (iTerm2 VIBES)
+     =============================== */
+  "terminal.integrated.fontFamily": "'SF Mono', 'Menlo', 'JetBrains Mono'",
+  "terminal.integrated.fontSize": 12,
+  "terminal.integrated.lineHeight": 1.4,
+  "terminal.integrated.letterSpacing": 0.2,
+  "terminal.integrated.cursorBlinking": true,
+  "terminal.integrated.cursorStyle": "line",
+  "terminal.integrated.cursorWidth": 2,
+  "terminal.integrated.scrollback": 10000,
+  "terminal.integrated.tabs.enabled": true,
+  "terminal.integrated.tabs.location": "left",
+  "terminal.integrated.gpuAcceleration": "on",
+  "terminal.integrated.minimumContrastRatio": 1,
+  "terminal.integrated.drawBoldTextInBrightColors": false,
+
+  /* ===============================
+     💬 AI CHAT (REFINED)
+     =============================== */
+  "chat.editor.fontFamily": "'SF Mono', 'JetBrains Mono'",
+  "chat.fontFamily": "-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif",
+  "chat.editor.fontSize": 12,
+  "chat.inlineReferences.style": "link",
+  "chat.agentsControl.clickBehavior": "cycle",
+
+  /* ===============================
+     🎯 DEVELOPMENT TOOLS
+     =============================== */
+  "python.defaultInterpreterPath": "c:\\Program Files\\Python310\\python.exe",
+  "python.createEnvironment.trigger": "off",
+  "dart.flutterSdkPath": "C:\\Users\\HP\\Downloads\\flutter",
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": false,
+  "editor.formatOnType": false,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+
+  /* ===============================
+     🤖 AI TOOLS - WINDSURF/CODEIUM FIX
+     =============================== */
+  "codeium.enableSearch": true,
+  "codeium.enableCodeLens": false,
+  "codeium.enableConfig": {
+    "chat": true,
+    "autocomplete": true,
+    "search": true
+  },
+  "gitlens.ai.enabled": false,
+  "github.copilot.enable": {
+    "*": false
+  },
+
+  /* ===============================
+     🎨 ICONS (REFINED)
+     =============================== */
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.productIconTheme": "fluent-icons",
+  "material-icon-theme.saturation": 0.9,
+  "material-icon-theme.opacity": 0.95,
+  "workbench.tips.enabled": false,
+/* ===============================
+   🔒 TELEMETRY (MINIMAL + CHAT OK)
+   =============================== */
+   "telemetry.telemetryLevel": "all",
+"redhat.telemetry.enabled": false,
+"codeium.enableTelemetry": true,
+
+  /* ===============================
+     🌙 ULTIMATE DARK GLASS THEME
+     True macOS Sonoma/Sequoia Vibes
+     =============================== */
+  "workbench.colorTheme": "Default Dark Modern",
+  "workbench.colorCustomizations": {
+    "editor.background": "#1c1c1eff",
+    "sideBar.background": "#1c1c1eff",
+    "activityBar.background": "#1c1c1eff",
+    "titleBar.activeBackground": "#1c1c1eff",
+    "titleBar.inactiveBackground": "#1c1c1eff",
+    "statusBar.background": "#1c1c1eff",
+    "statusBar.noFolderBackground": "#1c1c1eff",
+    "editorGroupHeader.tabsBackground": "#1c1c1eff",
+    "panel.background": "#1c1c1eff",
+    "terminal.background": "#1c1c1eff",
+    "notifications.background": "#1c1c1eff",
+    "dropdown.background": "#1c1c1eff",
+    "input.background": "#2a2a2aff",
+    "editorWidget.background": "#242424ff",
+    "sideBar.border": "#00000000",
+    "editorGroup.border": "#2d2d2d40",
+    "panel.border": "#2d2d2d30",
+    "tab.border": "#00000000",
+    "titleBar.border": "#00000000",
+    "statusBar.border": "#2d2d2d30",
+    "focusBorder": "#0066cc80",
+    "contrastBorder": "#00000000",
+    "tab.activeBackground": "#2a2a2aff",
+    "tab.inactiveBackground": "#1c1c1c00",
+    "tab.activeForeground": "#ffffffef",
+    "tab.inactiveForeground": "#808080cc",
+    "tab.hoverBackground": "#2a2a2a66",
+    "tab.unfocusedActiveBackground": "#2a2a2a99",
+    "tab.activeBorderTop": "#0066ccff",
+    "tab.unfocusedActiveBorderTop": "#0066cc66",
+    "editorGroupHeader.tabsBorder": "#00000000",
+    "list.activeSelectionBackground": "#0066cc66",
+    "list.activeSelectionForeground": "#ffffff",
+    "list.inactiveSelectionBackground": "#2d2d2d66",
+    "list.hoverBackground": "#2d2d2d44",
+    "list.focusBackground": "#0066cc55",
+    "list.focusForeground": "#ffffff",
+    "list.highlightForeground": "#0066ccff",
+    "quickInput.background": "#242424ff",
+    "quickInputList.focusBackground": "#0066cc66",
+    "editor.lineHighlightBackground": "#2d2d2d33",
+    "editor.lineHighlightBorder": "#00000000",
+    "editor.selectionBackground": "#0066cc55",
+    "editor.inactiveSelectionBackground": "#0066cc22",
+    "editor.findMatchBackground": "#ff990066",
+    "editor.findMatchHighlightBackground": "#ff990033",
+    "editorIndentGuide.background1": "#2d2d2d33",
+    "editorIndentGuide.activeBackground1": "#4d4d4d88",
+    "activityBar.foreground": "#ffffffcc",
+    "activityBar.inactiveForeground": "#808080aa",
+    "activityBar.activeBorder": "#0066ccff",
+    "activityBarBadge.background": "#0066ccff",
+    "activityBarBadge.foreground": "#ffffff",
+    "statusBar.foreground": "#bfbfbfef",
+    "statusBarItem.hoverBackground": "#2d2d2d66",
+    "statusBarItem.activeBackground": "#0066cc44",
+    "statusBarItem.prominentBackground": "#0066ccaa",
+    "titleBar.activeForeground": "#ccccccef",
+    "titleBar.inactiveForeground": "#80808099",
+    "chat.requestBackground": "#242424dd",
+    "chat.requestBorder": "#2d2d2d40",
+    "chat.avatarBackground": "#2d2d2d66",
+    "inlineChat.background": "#242424ee",
+    "inlineChat.border": "#2d2d2d50",
+    "editorWidget.border": "#2d2d2d50",
+    "button.background": "#0066ccff",
+    "button.foreground": "#ffffff",
+    "button.hoverBackground": "#0077ddff",
+    "input.border": "#2d2d2d66",
+    "inputOption.activeBorder": "#0066ccff",
+    "inputOption.activeBackground": "#0066cc33",
+    "editor.foreground": "#d4d4d4ef",
+    "editorCursor.foreground": "#0066ccff",
+    "editorWhitespace.foreground": "#2d2d2d66",
+    "editorLineNumber.foreground": "#5a5a5a99",
+    "editorLineNumber.activeForeground": "#bfbfbfcc"
+  },
+
+  /* ===============================
+     🔧 WORKBENCH REFINEMENTS
+     =============================== */
+  "workbench.startupEditor": "none",
+  "workbench.statusBar.visible": true,
+  "workbench.editor.enablePreview": false,
+  "workbench.editor.closeOnFileDelete": true,
+  "workbench.editor.revealIfOpen": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.reduceMotion": "off",
+  "workbench.list.horizontalScrolling": true,
+
+  /* ===============================
+     ⚙️ PERFORMANCE TWEAKS
+     =============================== */
+  "extensions.autoUpdate": false,
+  "extensions.ignoreRecommendations": true,
+  "update.mode": "manual",
+  "search.followSymlinks": false,
+  "search.smartCase": true,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/node_modules/**": true,
+    "**/.venv/**": true
+  },
+
+  /* ===============================
+     🎭 FINAL TOUCHES
+     =============================== */
+  "vscode-edge-devtools.webhintInstallNotification": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "explorer.confirmDragAndDrop": false,
+"explorer.confirmDelete": false,
+"vscode-edge-devtools.webhint": false,
+"editor.minimap.size": "fit"
+}
+
+
