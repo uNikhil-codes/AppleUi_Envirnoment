@@ -33,10 +33,10 @@
   "editor.renderLineHighlight": "all",
   "editor.renderLineHighlightOnlyWhenFocus": false,
 
-  /* ===============================
+  /* ============================
      ✨ CURSOR & ANIMATIONS
      Buttery Smooth macOS Motion
-     =============================== */
+     =============================*/
   "editor.cursorBlinking": "expand",
   "editor.cursorSmoothCaretAnimation": "on",
   "editor.cursorWidth": 2,
