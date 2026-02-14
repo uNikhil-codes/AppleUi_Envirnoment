@@ -2,7 +2,7 @@
   /* ============================
      🍎 ULTIMATE MAC OS EXPERIENCE
      Performance & Core Behavior
-     =============================== */
+     ============================ */
   "files.autoSave": "afterDelay",
   "files.autoSaveDelay": 800,
   "files.trimTrailingWhitespace": true,
