@@ -21,7 +21,7 @@
   /* ===============================
      🎨 SF MONO-INSPIRED TYPOGRAPHY
      Pixel-Perfect Apple Font Feel
-     =============================== */
+     ============================*/
   "editor.fontFamily": "'SF Mono', 'JetBrains Mono', 'Menlo', 'Consolas', monospace",
   "editor.fontSize": 12.5,
   "editor.lineHeight": 1.75,
