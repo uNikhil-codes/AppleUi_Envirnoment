@@ -9,7 +9,7 @@ Use **any one** method:
 * Press
   **`Ctrl + Shift + P`**
 * Search for
-  **`Preferences: Open Settings (JSON)`**
+  **`Preferences: Open Settings (JSON)`***
 * Press **Enter**
 This will open your current `settings.json`.
 ---
