@@ -33,7 +33,7 @@ For best results, install these:
 
 Restart VS Code after installing fonts.
 
----
+-----
 
 ## Notes
 
