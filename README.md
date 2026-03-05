@@ -1,4 +1,4 @@
-Make your VScode look premiuim !!
+Make your VSc
 Follow the steps below to Make your VScode look premiuim !!
 ---
 ### 1️⃣ Open VS Code
