@@ -45,5 +45,5 @@ Restart VS Code after installing fonts.
 
 To undo everything:
 * Clear the contents of `settings.json`
-* Save the file
+* Save the filee
 VS Code will return to default behavior like the one in beginning .
