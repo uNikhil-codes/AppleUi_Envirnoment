@@ -1,4 +1,4 @@
-Follow the steps below to Make your VScode look premiuim and ios smooth !!
+Follow the steps below to Make your VScode look premiuim and apple ios smooth !!
 ---
 ### 1️⃣ Open VS Code
 
